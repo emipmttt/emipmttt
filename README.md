@@ -6,8 +6,9 @@
 - 📫 You can reach me in:
 
 	- [email: emipmttt@gmail.com](mailto:emipmttt@gmail.com "emipmttt@gmail.com")
-	- [Hire me: Workana](https://www.workana.com/freelancer/94f2313b567273ed14d67d6efccd557e "Workana")
+	
 
-- [¿Do you want play my game? ](https://mushipolix.com)
-- [Most recent educational team project for Platzi Master (Vue, Node)](https://productivemaster.github.io/)
+
+- [Most recent educational team project for Platzi Master (React, Vue, Node)](https://productivemaster.github.io/)
 - [Educational team music project (React, Node)](https://cday.tk)
+- [Freelancer projects](https://www.workana.com/freelancer/94f2313b567273ed14d67d6efccd557e "Workana")
