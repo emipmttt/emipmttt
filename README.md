@@ -1,14 +1,16 @@
-### Emiliano Pamont - Web Developer 👋
+Emiliano Pamont - Full-Stack Web Developer 👋
+I am a dedicated full-stack web developer with a passion for building innovative solutions across various industries. My experience spans a wide range of projects, from educational platforms and human resources systems to transportation and vehicle management solutions. With a strong foundation in both frontend and backend development, I continually strive to enhance my skills and deliver high-quality results.
 
-- 🔭 I’m currently working on a lot freelance projects: educational, human resources, transport management and vehicle management
-
-- 🌱 I’m currently learning professional skils about frontend and backend development
-- 📫 You can reach me in:
-
-	- [email: emipmttt@gmail.com](mailto:emipmttt@gmail.com "emipmttt@gmail.com")
-	
-
-
-- [Most recent educational team project for Platzi Master (React, Vue, Node)](https://productivemaster.github.io/)
-- [Educational team music project (React, Node)](https://cday.tk)
-- [Freelancer projects](https://www.workana.com/freelancer/94f2313b567273ed14d67d6efccd557e "Workana")
+Technical Skills:
+Frontend Development: React, Vue.js
+Backend Development: Node.js
+Project Management: Experienced in leading and contributing to team projects, ensuring efficient workflow and successful project delivery.
+Current Projects:
+Freelance Work: Developing tailored solutions for clients in education, human resources, and transportation management.
+Ongoing Learning: Expanding my expertise in cutting-edge web technologies and best practices.
+Contact:
+Email: emipmttt@gmail.com
+Featured Work:
+Educational Team Project for Platzi Master (React, Vue, Node)
+Educational Music Project (React, Node)
+Freelance Portfolio on Workana
