@@ -1,5 +1,8 @@
 # Emiliano Pacheco - Full-Stack Web Developer 👋
 
+![Emiliano Pacheco](https://github.com/user-attachments/assets/17b143df-82c0-4f37-ba4e-35a2e7229a4b)
+
+
 I am a dedicated full-stack web developer with a passion for building innovative solutions across various industries. My experience spans a wide range of projects, from educational platforms and human resources systems to transportation and vehicle management solutions. With a strong foundation in both frontend and backend development, I continually strive to enhance my skills and deliver high-quality results.
 
 ## Technical Skills:
